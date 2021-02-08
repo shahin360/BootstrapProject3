@@ -1,0 +1,35 @@
+
+/***small device**/
+@media(max-width:576px){
+  body{
+    background-color: skyblue;
+  }
+  .display-1{
+    font-size: 3rem!important;
+  }
+  .display-4{
+    font-size: 2.5rem!important;
+  }
+
+}
+/*** media device***/
+
+@media(max-width:768px){
+
+}
+/*** large device ***/
+  
+@media(max-width:992px){
+
+}
+/** extra large device **/
+ 
+@media(max-width:1200px){
+
+}
+/*** extra extra large device***/
+
+@media(max-width:1400px){
+ 
+}
+
